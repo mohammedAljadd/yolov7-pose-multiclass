@@ -15,3 +15,7 @@ License: This repository is released under the GPL-3.0 license in compliance wit
 
 
 Please note: This repository was created as an attempt to address certain issues and improvements in the original codebase. Due to the original authors' limited activity in reviewing or merging pull requests, this fork was established to facilitate ongoing development and community contributions
+
+### License
+
+These modifications are distributed under the terms of the GPL version 3.0. For more details, refer to the COPYING file included in this repository, which contains the full text of the GPL license.
