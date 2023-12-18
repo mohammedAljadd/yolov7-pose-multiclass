@@ -9,7 +9,7 @@ This repository contains bug fixes made to the YOLOv7 pose official source code 
 
 NB: The only changes made here are bug fixes aimed at enabling multiclass detection.
 
-Here is the link to the original GitHub repository: YOLOv7 Official Repository
+Here is the link to the original GitHub repository: [YOLOv7 Official Repository](https://github.com/WongKinYiu/yolov7/tree/pose)
 
 License: This repository is released under the GPL-3.0 license in compliance with the original YOLOv7 pose source code.
 
