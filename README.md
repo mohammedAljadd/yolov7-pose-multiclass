@@ -51,7 +51,10 @@ Responsible for predicting detected objects and associated information, includin
 #### Output Tensors
 There are 4 output tensors to consider different object scales. Each vector in the tensors contains the following information:
 
-$P_v$ = {$Obj_{conf}, C_{x}, C_{y}, W, H, class_{conf1}, ..., class_{conf9}, K^{1}_x, K^{1}_y, K^{1}_{conf}, ..., K^{17}_x, K^{17}_y, K^{17}_{conf}$}
+$$
+P_v = \left\{ {Obj_{conf}}, C_{x}, C_{y}, W, H, class_{conf1}, \ldots, class_{conf9}, K^{1}_x, K^{1}_y, K^{1}_{conf}, \ldots, K^{17}_x, K^{17}_y, K^{17}_{conf} \right\}
+$$
+
 
 
 
