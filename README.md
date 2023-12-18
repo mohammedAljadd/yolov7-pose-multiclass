@@ -87,7 +87,7 @@ The sub-losses are:
 
 
 
-In the original [YOLOv7 Pose paper](https://arxiv.org/abs/2204.06806), the set $\lambda_{cls}$ = 0.5, $\lambda_{box}$ = 0.05, $\lambda_{kpts}$ = 0.1 and $\lambda_{kpts\_conf}$ = 0.5.
+In the original [YOLOv7 Pose paper](https://arxiv.org/abs/2204.06806), they set $\lambda_{cls}$ = 0.5, $\lambda_{box}$ = 0.05, $\lambda_{kpts}$ = 0.1 and $\lambda_{kpts\_conf}$ = 0.5.
 
 ### License
 
